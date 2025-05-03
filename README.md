@@ -6,7 +6,7 @@
 
 ## Config Start Development
 
-        <1>clone repo: `git clone https://github.com/gii17/ujian_test.git`
+        <1>clone repo: `git clone https://github.com/sereneress/Test-PKL.git`
         <2>in terminal: cd test
         <3>install library development: composer install
         <4>koneksi DB: rubah file .env
